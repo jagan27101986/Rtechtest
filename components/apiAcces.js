@@ -1,5 +1,7 @@
 import axios from 'axios';
 
+/** ACCESSING API's for Australian POST **/
+
 export default axios.create({
     baseURL: 'https://digitalapi.auspost.com.au/postcode',
     timeout: 1000,

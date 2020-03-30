@@ -4,6 +4,7 @@ import { globalStyles } from '../styles/global';
 
 export default function ListResult({resultSet}){
      return (
+         /** DISPLAY RESULT SET FOR LOCATION, POSTCODE AND STATE **/
   <FlatList 
          nestedScrollEnabled={true}
              keyExtractor={item => item.id.toString()}

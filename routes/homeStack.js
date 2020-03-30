@@ -3,7 +3,7 @@ import React from 'react';
 import Address from '../components/addressForm';
 import Header from '../components/header';
 import { createAppContainer } from 'react-navigation';
-
+/** ROUTING OF SCREENS  **/
 const screens = {
   Home: {
     screen: Address,
