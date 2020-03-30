@@ -4,8 +4,9 @@ import { globalStyles } from '../styles/global';
 
 export default function Header({title}){
     return (
-        <View style={globalStyles.headerTitle}>
+        <View>
             <Text style={globalStyles.headerText}>{title}</Text>
         </View>
+    
     )
 }
