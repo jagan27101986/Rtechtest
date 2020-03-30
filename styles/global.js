@@ -63,9 +63,7 @@ export const globalStyles = StyleSheet.create({
     pickerItems:
     { width: '100%',
      height:40, 
-     borderColor:'#ddd',
      borderWidth:1,
-     fontSize: 18,
      color:'#fff',
       borderWidth:1,
       borderColor:'#000'
