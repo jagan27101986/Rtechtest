@@ -1,6 +1,4 @@
-#Lawpath Technical Test
-
-The aim of the test was to create a form with PostCode, Suburb and State which used Australia Post's Postcode/Suburb search. 
+The aim was to create a form with PostCode, Suburb and State which used Australia Post's Postcode/Suburb search. 
 https://developers.auspost.com.au/apis/pac/reference/postcode-search
 
 The App has been written in React Native.
